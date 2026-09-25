@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "go_grpc/proto";
+option go_package = "github.com/carloscfgos1980/client-server-gRPC/proto";
 
 package personservice;
 
